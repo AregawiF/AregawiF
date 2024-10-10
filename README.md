@@ -1,4 +1,4 @@
-![Background Image](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![Background Image](https://drive.google.com/file/d/1dId7mdE-5z4sFj5GOqzJGadzp_OrKO4A/view?usp=drive_link)
 ### Hi there 👋
 Greetings! I'm Aregawi Fikre, a passionate software engineering student at Addis Ababa Institute of Technology, with a keen interest in mastering the art of crafting software solutions. As I journey through the realm of technology, I'm constantly driven by a thirst for knowledge and a desire to innovate.
 
